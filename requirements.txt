@@ -4,3 +4,4 @@ pandas
 plotly
 openpyxl
 XlsxWriter
+pip install --upgrade pip
