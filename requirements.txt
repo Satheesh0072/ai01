@@ -1,5 +1,7 @@
-﻿streamlit
-pandas
 numpy
-plotly
 pip install -r requirements.txt
+streamlit
+pandas
+plotly
+openpyxl
+XlsxWriter
