@@ -6,3 +6,4 @@ openpyxl
 XlsxWriter
 pip install --upgrade pip
 gtts
+pip install -r requirements.txt
